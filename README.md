@@ -7,7 +7,7 @@ modificados, removidos, adicionados ou concluidos. (marcar as partes concluidas)
 ---Tarefas:
 
 I. Criar as classes base(classes mais simples):
-- pessoa;
+- pessoa (ok);
 - produto;
 - item de compra;
 - compra;
