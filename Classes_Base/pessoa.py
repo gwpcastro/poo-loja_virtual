@@ -1,0 +1,1 @@
+# Definicao da classe compra, que armazena os dados de uma pessoa

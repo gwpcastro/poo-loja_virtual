@@ -1,0 +1,1 @@
+# Definicao da classe compra, que representa um produto da loja

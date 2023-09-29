@@ -1,0 +1,1 @@
+# Arquivo que sera executado para gerar nossa loja, e utilizara os outros arquivos
