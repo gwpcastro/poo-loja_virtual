@@ -5,18 +5,18 @@ OBS1: o que esta nesse arquivo pode mudar durante o trabalho a medida que formos
 modificados, removidos, adicionados ou concluidos. (marcar as partes concluidas)
 
 ---Tarefas:
-i. Criar as classes base(classes mais simples):
+I. Criar as classes base(classes mais simples):
 - pessoa;
 - produto;
 - item de compra;
 - compra;
 - 
-ii. Criar classes prestigio(elaboradas):
+II. Criar classes prestigio(elaboradas):
 - loja;
 - app;
 - 
-iii. Colocar typehints;
+III. Colocar typehints;
 
-iv. Tratamento de erros;
+IV. Tratamento de erros;
 
-v. Criar interface grafica;
+V. Criar interface grafica;
