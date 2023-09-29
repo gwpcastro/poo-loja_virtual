@@ -10,10 +10,11 @@ I. Criar as classes base(classes mais simples):
 - produto;
 - item de compra;
 - compra;
-- 
+
 II. Criar classes prestigio(elaboradas):
 - loja;
 - app;
+
 III. Colocar typehints;
 
 IV. Tratamento de erros;
