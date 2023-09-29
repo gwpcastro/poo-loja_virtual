@@ -5,6 +5,7 @@ OBS1: o que esta nesse arquivo pode mudar durante o trabalho a medida que formos
 modificados, removidos, adicionados ou concluidos. (marcar as partes concluidas)
 
 ---Tarefas:
+
 I. Criar as classes base(classes mais simples):
 - pessoa;
 - produto;
